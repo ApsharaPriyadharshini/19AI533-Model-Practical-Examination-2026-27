@@ -1,5 +1,6 @@
 # 19AI533-Model-Practical-Examination-2026-27
 19AI533 Model Practical Examination 2026-27
+
 Q2 - INTERFACING ANALOG INPUT SENSOR POT WITH ARDUINO
 # Aim
 To interface potentiometer with the analog input sensor and Arduino and read its value accordingly.
