@@ -6,9 +6,13 @@ To interface potentiometer with the analog input sensor and Arduino and read its
 
 # Apparatus / Sotware required
 Potentiometer
+
 Arduino UNO r3
+
 Breadboard
+
 Connecting wires
+
 Resistor
 
 # Output
